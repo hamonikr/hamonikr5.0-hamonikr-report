@@ -5,6 +5,6 @@ This is a troubleshooting tool to analyse crash reports and browse through impor
 
 # hamonikr-report
 
-Change mintreport
+하모니카 5.0에 맞게 재빌드
 
-하모니카 4.0에 맞게 재빌드
+패키지 이름 변경 : mintreport > hamonikr-report
