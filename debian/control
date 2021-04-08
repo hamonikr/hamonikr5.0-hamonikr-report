@@ -1,7 +1,7 @@
 Source: hamonikr-report
 Section: admin
 Priority: optional
-Maintainer: Kevin Kim <root@hamonikr.org>
+Maintainer: HamoniKR Team <pkg@hamonikr.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 
