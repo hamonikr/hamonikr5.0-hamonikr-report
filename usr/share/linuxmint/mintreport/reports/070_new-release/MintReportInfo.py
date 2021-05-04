@@ -32,7 +32,7 @@ class Report(InfoReport):
                     if "CODENAME=" in line:
                         rel_codename = line.split('=')[1].replace('"', '').split()[0]
         if rel_edition is not None and rel_codename is not None:
-            rel_path = "/usr/share/mint-upgrade-info/%s/info" % rel_codename
+            rel_path = "/usr/share/hamonikr-upgrade-info/%s/info" % rel_codename
             if os.path.exists(rel_path):
                 config = configparser.ConfigParser()
                 config.read(rel_path)
