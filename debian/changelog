@@ -1,3 +1,10 @@
+hamonikr-report (3.0.2) hanla; urgency=medium
+
+  * Update translate and version up (base mintreport 1.2.5)
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 25 Aug 2021 18:27:23 +0900
+
+
 hamonikr-report (3.0.1) public; urgency=medium
 
   * Check linuxmint location > hamonikr location

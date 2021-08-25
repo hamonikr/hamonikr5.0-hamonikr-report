@@ -1,75 +1,76 @@
-# Danish translation for linuxmint
-# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# Latin translation for linuxmint
+# Copyright (c) 2021 Rosetta Contributors and Canonical Ltd 2021
 # This file is distributed under the same license as the linuxmint package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2020-06-19 12:06+0100\n"
-"PO-Revision-Date: 2020-06-20 09:16+0000\n"
-"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
-"Language-Team: Danish <da@li.org>\n"
+"PO-Revision-Date: 2021-06-23 07:18+0000\n"
+"Last-Translator: Davide Novemila <Unknown>\n"
+"Language-Team: Latin <la@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2021-06-25 10:42+0000\n"
 "X-Generator: Launchpad (build 40cc6dba4163ba9ca785b26ad91f43c87d70ba4d)\n"
+"Language: la\n"
 
 #: usr/lib/linuxmint/mintreport/app.py:84
 #: usr/lib/linuxmint/mintreport/app.py:245 generate_desktop_files:25
 #: generate_desktop_files:39 generate_desktop_files:53
 #: generate_desktop_files:67
 msgid "System Reports"
-msgstr "Systemrapporter"
+msgstr "Relationes Systematis"
 
 #: usr/lib/linuxmint/mintreport/app.py:193
 msgid "_File"
-msgstr "_Filer"
+msgstr "_Plica"
 
 #: usr/lib/linuxmint/mintreport/app.py:198
 msgid "Refresh"
-msgstr "Opdatér"
+msgstr "Renova"
 
 #: usr/lib/linuxmint/mintreport/app.py:205
 msgid "Restore ignored reports"
-msgstr "Gendan ignorerede rapporter"
+msgstr "Relationes neglectae restitue"
 
 #: usr/lib/linuxmint/mintreport/app.py:209
 #: usr/lib/linuxmint/mintreport/tray.py:53
 msgid "Quit"
-msgstr "Afslut"
+msgstr "Relinque"
 
 #: usr/lib/linuxmint/mintreport/app.py:220
 msgid "_Help"
-msgstr "_Hjælp"
+msgstr "_Auxilium"
 
 #: usr/lib/linuxmint/mintreport/app.py:226
 #: usr/lib/linuxmint/mintreport/app.py:243
 msgid "About"
-msgstr "Om"
+msgstr "Circa"
 
 #: usr/lib/linuxmint/mintreport/app.py:287
 msgid "An error occurred while gathering the system information."
-msgstr "Der opstod en fejl under indsamlingen af systeminformation."
+msgstr "Error evenit cum informationes systematis colligarentur."
 
 #: usr/lib/linuxmint/mintreport/app.py:301
 msgid "System information copied"
-msgstr "Systeminformationen blev kopieret"
+msgstr "Informationes systematis duplicatae"
 
 #: usr/lib/linuxmint/mintreport/app.py:301
 msgid ""
 "Your system information was copied into your clipboard so you can paste it "
 "on the forums."
 msgstr ""
-"Din systeminformation blev kopieret til udklipsholderen, så du kan indsætte "
-"det i foraene."
+"Informationes tui systematis in latibulo duplicatae ad eas in fora "
+"includendas."
 
 #: usr/lib/linuxmint/mintreport/app.py:310
 msgid "System information uploaded"
-msgstr "Systeminformationen blev uploadet"
+msgstr "Informationes systematis ad rete missae"
 
 #: usr/lib/linuxmint/mintreport/app.py:310
 #, python-format
@@ -77,33 +78,32 @@ msgid ""
 "Your system information was uploaded to %s. This link was placed in your "
 "clipboard so you can paste it on IRC."
 msgstr ""
-"Din systeminformation blev uploadet til %s. Linket blev gemt i "
-"udklipsholderen, så du kan indsætte det på IRC."
+"Informationes de tuo systemate ad %s missae sunt. Hoc ligamen ad IRC "
+"includendum in latibulo collocatum est."
 
 #: usr/lib/linuxmint/mintreport/app.py:312
 msgid "An error occurred while uploading the system information"
-msgstr "Der opstod en fejl, da systeminformationen skulle uploades."
+msgstr "Error evenit cum informationes systematis ad rete mitterentur"
 
 #: usr/lib/linuxmint/mintreport/app.py:312
 msgid ""
 "Copy and paste the system information manually into a pastebin site like "
 "https://pastebin.com and share the link on IRC."
 msgstr ""
-"Kopiér og indsæt manuelt systeminformationen på et pastebinsite som f.eks. "
-"https://pastebin.com og del linket på IRC."
+"Informationes systematis manibus duplica includeque in pastebin locum sicut "
+"https://pastebin.com, deinde ligamen communica in IRC."
 
 #: usr/lib/linuxmint/mintreport/app.py:391
 msgid "Ignore this report"
-msgstr "Ignorér denne rapport"
+msgstr "Hanc relationem neglege"
 
 #: usr/lib/linuxmint/mintreport/app.py:407
 msgid "Are you sure you want to ignore this report?"
-msgstr "Er du sikker på, du vil ignorere denne rapport?"
+msgstr "Hanc relationem neglegere visne?"
 
 #: usr/lib/linuxmint/mintreport/app.py:408
 msgid "The report will be permanently ignored and will no longer be visible."
-msgstr ""
-"Rapporten vil blive ignoreret permanent og vil ikke længere være synlig."
+msgstr "Relatio perpetuo neglegetur et numquam ostendebatur."
 
 #: usr/lib/linuxmint/mintreport/app.py:500
 #, python-format
@@ -111,8 +111,8 @@ msgid ""
 "The debug symbols are missing for %(program)s.\n"
 "Please install %(package)s."
 msgstr ""
-"Fejlfindingssymbolerne til %(program)s mangler.\n"
-"Installér venligst %(package)s."
+"Symbola emendationis non inveniuntur in %(program)s.\n"
+"%(package)s institue quaeso."
 
 #: usr/lib/linuxmint/mintreport/app.py:514
 #, python-format
@@ -121,9 +121,8 @@ msgid ""
 "If you want to generate a stack trace for this crash report, please "
 "reinstall it."
 msgstr ""
-"Pakken, som indeholder %s, kunne ikke findes.\n"
-"Hvis du vil danne et stakspor for denne nedbrudsrapport, skal du "
-"geninstallere pakken."
+"Fasciculus %s continens non invenitur.\n"
+"Eum institue si vestigia struis pro hac relatione casus creare vis."
 
 #: usr/lib/linuxmint/mintreport/app.py:542
 msgid ""
@@ -133,108 +132,108 @@ msgid ""
 "A stack trace is available in 'Local Files' but its content is probably "
 "inaccurate."
 msgstr ""
-"De \"headers\" eller binære filer, som er installeret på dit system, stemmer "
-"ikke overens med koden, som blev kørt under nedbrudet.\n"
-"De er sandsynligvis blevet opgraderet siden da.\n"
-"Et stakspor er tilgængelig i \"Lokale filer\", men dets indhold er "
-"sandsynligvis unøjagtigt."
+"Praescriptiones aut binaria in tuo systemate institutae cum codice pulso "
+"inter casum non aequant.\n"
+"Probabiliter novatae sunt.\n"
+"Vestigia stuis in 'Plicis Localibus' parata sunt sed fortasse non sunt "
+"accurata."
 
 #: usr/lib/linuxmint/mintreport/tray.py:49
 msgid "Show System Reports"
-msgstr "Vis systemrapporter"
+msgstr "Relationes Systematis Ostende"
 
 #: usr/lib/linuxmint/mintreport/tray.py:116
 msgid "Some system reports require your attention"
-msgstr "Nogle systemrapporter kræver din opmærksomhed"
+msgstr "Relationes systematis nonnullae inspiciendae sunt"
 
 #: generate_desktop_files:25 generate_desktop_files:39
 #: generate_desktop_files:53 generate_desktop_files:67
 msgid "Troubleshoot problems"
-msgstr "Fejlfinding af problemer"
+msgstr "Problemata investiga"
 
 #: generate_desktop_files:53
 msgid "Troubleshooting Tool"
-msgstr "Fejlfindingsværktøj"
+msgstr "Instrumentum ad Investigandum"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:1
 msgid "Running system checks..."
-msgstr "Kører systemtjek …"
+msgstr "Systema inspicitur ..."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:2
 msgid "No problems were detected"
-msgstr "Der blev ikke fundet nogen problemer"
+msgstr "Nullum problema inventum"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:3
 msgid "System reports"
-msgstr "Systemrapporter"
+msgstr "Relationes systematis"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:4
 msgid "Copy"
-msgstr "Kopiér"
+msgstr "Duplica"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:5
 msgid ""
 "Copy to clipboard (code tags are added to make it easy to paste the system "
 "information into the forums)"
 msgstr ""
-"Kopiér til udklipsholderen (kodemærkater tilføjes, så systeminformationen "
-"lettere kan indsættes i foraene)"
+"Ad latibulum duplica (pittacia codicis adduntur ad informationes systematis "
+"in fora facile includendas)"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:6
 msgid "Upload"
-msgstr "Upload"
+msgstr "Ad rete mitte"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:7
 msgid "Upload to a pastebin service (no personal information included)"
-msgstr "Upload til en pastebintjeneste (personlig information medtages ikke)"
+msgstr "Ad pastebin officium mitte (nulla informatio privata addita)"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:8
 msgid "System information"
-msgstr "Systeminformation"
+msgstr "Informationes systematis"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:9
 msgid "Crash reports are not available"
-msgstr "Nedbrudsrapporter er ikke tilgængelige"
+msgstr "Relationes casus non paratae"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:10
 msgid ""
 "To enable crash reporting, install systemd-coredump and reboot your computer."
 msgstr ""
-"Installér systemd-coredump og genstart computeren for at aktivere "
-"rapportering af nedbrud."
+"Ad relationes casus creandas systemd-coredump institue atque computatrum "
+"iterum accende."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:11
 msgid "Crash reports:"
-msgstr "Nedbrudsrapporter:"
+msgstr "Relationes casus:"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:12
 msgid "Stack trace:"
-msgstr "Stakspor:"
+msgstr "Vestigium truis:"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:13
 msgid ""
 "When seeking help, check for existing bug reports, pastebin the trace, share "
 "crash.tar.gz (from Local Files) and explain how to reproduce the crash."
 msgstr ""
-"Når du søger hjælp, så søg efter eksisterende fejlrapporter, overfør sporet "
-"til en pastebin, del crash.tar.gz (fra Lokale filer) og forklar, hvordan "
-"nedbruddet kan reproduceres."
+"Auxilium quaerendo relationes mendorum cognitorum inspice, vestigia ad "
+"pastebin mitte, crash.tar.gz (e Plicis Localibus) communica atque quomodo "
+"casus suscitari possit explica."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:14
 msgid "Local Files"
-msgstr "Lokale filer"
+msgstr "Plicae Locales"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:15
 msgid "Open the directory containing crash.tar.gz and its content."
-msgstr "Åbn mappen, som indeholder crash.tar.gz og dens indhold."
+msgstr "Directorium crash.tar.gz continens atque eius sarcinas aperi."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:16
 msgid "Bug Tracker"
-msgstr "Fejlsporing"
+msgstr "Secutor Mendorum"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:17
 msgid "Find the most appropriate bug tracker."
-msgstr "Find det bedst egnet værktøj til fejlsporing."
+msgstr "Secutorem mendorum optimum inveni."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:18
 msgid "Pastebin"
@@ -242,7 +241,7 @@ msgstr "Pastebin"
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:19
 msgid "Upload the trace to the Internet."
-msgstr "Overfør sporet til internettet."
+msgstr "Vestigia ad Interrete mitte."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:20
 msgid ""
@@ -250,174 +249,170 @@ msgid ""
 "Always provide a trace and reliable instructions to trigger/observe the "
 "problem."
 msgstr ""
-"Udviklere har brug for at vide, hvor koden fejler og hvordan det kan "
-"reproduceres. Tilvejebring altid et spor og pålidelige instruktioner til at "
-"udløse/observere problemet."
+"Delineatoribus necesse est scire ubi codex defiat aut quomodo casus "
+"recreatur. Semper vestigia et informationes certas para ad problema "
+"recreandum/inspiciendum."
 
 #: usr/share/linuxmint/mintreport/mintreport.ui.h:21
 msgid "Crash reports"
-msgstr "Nedbrudsrapporter"
+msgstr "Relationes casus"
 
 #: usr/share/linuxmint/mintreport/reports/045_xappstatusapplet-missing/MintReportInfo.py:17
 msgid "Add the XApp Status applet"
-msgstr "Tilføj XApp status-panelprogrammet"
+msgstr "XApp miniapplicationem status adde"
 
 #: usr/share/linuxmint/mintreport/reports/045_xappstatusapplet-missing/MintReportInfo.py:37
 msgid ""
 "The XApp Status applet allows applications to provide a tray icon without "
 "rendering glitches and with support for HiDPI and symbolic icons."
 msgstr ""
-"XApp status-panelprogrammet gør det muligt for programmer at vise et "
-"statusfeltikon uden fejl i gengivelsen og med understøttelse af HiDPI og "
-"symbolske ikoner."
+"XApp Status miniapplicatio applicationibus iconem lancis confert sine "
+"erroribus visualibus et cum HiPDI iconumque toleratione."
 
 #: usr/share/linuxmint/mintreport/reports/045_xappstatusapplet-missing/MintReportInfo.py:39
 msgid "Right-click the panel and choose 'Add to Panel'."
-msgstr "Højreklik på panelet og vælg \"Tilføj til panel\"."
+msgstr "Laeva tabulam clica et 'Ad Tabulam Adde' elige."
 
 #: usr/share/linuxmint/mintreport/reports/045_xappstatusapplet-missing/MintReportInfo.py:46
 msgid "Add the XApp Status applet to the panel"
-msgstr "Tilføj XApp status-panelprogrammet til panelet"
+msgstr "XApp Status miniapplicationem ad tabulam adde"
 
 #: usr/share/linuxmint/mintreport/reports/050_install-media-codecs/MintReportInfo.py:16
 msgid "Install multimedia codecs"
-msgstr "Installér multimediecodecs"
+msgstr "Multimediorum codeca institue"
 
 #: usr/share/linuxmint/mintreport/reports/050_install-media-codecs/MintReportInfo.py:30
 msgid ""
 "Multimedia codecs are required to play some video formats and to properly "
 "render some websites."
 msgstr ""
-"Multimediecodecs er nødvendige for at kunne afspille visse videoformater og "
-"for at kunne gengive visse websteder korrekt."
+"Multimediorum codecis ad videos situsque aliquos reproducendos opus est."
 
 #: usr/share/linuxmint/mintreport/reports/050_install-media-codecs/MintReportInfo.py:36
 msgid "Install the Multimedia Codecs"
-msgstr "Installér multimediecodecs"
+msgstr "Multimediorum Codeca Institue"
 
 #: usr/share/linuxmint/mintreport/reports/060_timeshift-no-setup/MintReportInfo.py:17
 msgid "Set up the system restore utility"
-msgstr "Indstil værktøjet til gendannelse af systemet"
+msgstr "Utilitatem restoratione systematis institue"
 
 #: usr/share/linuxmint/mintreport/reports/060_timeshift-no-setup/MintReportInfo.py:31
 msgid "Linux Mint provides a system restore utility called Timeshift."
 msgstr ""
-"Linux Mint indeholder et værktøj kaldet Timeshift til gendannelse af "
-"systemet."
+"Linux Mint utilitatem restoratione systematis Timeshift appellatam praebet."
 
 #: usr/share/linuxmint/mintreport/reports/060_timeshift-no-setup/MintReportInfo.py:32
 msgid ""
 "Thanks to Timeshift you can take snapshots of the system, either manually or "
 "automatically."
 msgstr ""
-"Takket være Timeshift kan du, manuelt eller automatisk, tage "
-"øjebliksbilleder af systemet."
+"Per Timeshift photographia systematis, vel manibus vel automatice, capi "
+"potest."
 
 #: usr/share/linuxmint/mintreport/reports/060_timeshift-no-setup/MintReportInfo.py:33
 msgid ""
 "If something goes wrong you can then restore your operating system from a "
 "previously saved snapshot."
 msgstr ""
-"Går noget galt, kan du gendanne dit styresystem fra et tidligere "
-"øjebliksbillede."
+"In rebus adversis tuum systema operativum restitui potest e photographia "
+"systematis antehac servata."
 
 #: usr/share/linuxmint/mintreport/reports/060_timeshift-no-setup/MintReportInfo.py:39
 msgid "Launch Timeshift"
-msgstr "Start Timeshift"
+msgstr "Timeshift pelle"
 
 #: usr/share/linuxmint/mintreport/reports/070_new-release/MintReportInfo.py:17
 msgid "A new version of Linux Mint is available"
-msgstr "En ny version af Linux Mint er tilgængelig"
+msgstr "Nova version Linucis Mint parata est"
 
 #: usr/share/linuxmint/mintreport/reports/070_new-release/MintReportInfo.py:47
 #, python-format
 msgid "Visit %s for the latest announcements."
-msgstr "Besøg %s for at se de seneste meddelelser."
+msgstr "De novissimis nuntiis %s vise."
 
 #: usr/share/linuxmint/mintreport/reports/070_new-release/MintReportInfo.py:53
 #, python-format
 msgid "Upgrade to %s"
-msgstr "Opgradér til %s"
+msgstr "Ad %s renova"
 
 #: usr/share/linuxmint/mintreport/reports/080_release-eol/MintReportInfo.py:49
 msgid "Your version of Linux Mint will soon reach End-Of-Life (EOL)"
-msgstr "Din version af Linux Mint vil snart nå end-of-life (EOL)"
+msgstr "Tua versio Linucis Mint ad finem vitae (EOL) appropinquat"
 
 #: usr/share/linuxmint/mintreport/reports/080_release-eol/MintReportInfo.py:50
 #, python-brace-format
 msgid "It will stop receiving support and updates in a day."
 msgid_plural "It will stop receiving support and updates in {num_days} days."
-msgstr[0] "Support og opdateringer ophører om én dag."
-msgstr[1] "Support og opdateringer ophører om {num_days} dage."
+msgstr[0] "Cis diem unum toleratio et novationes vanescent."
+msgstr[1] "Cis {num_days} dies toleratio et novationes vanescent."
 
 #: usr/share/linuxmint/mintreport/reports/080_release-eol/MintReportInfo.py:54
 msgid "Your version of Linux Mint is no longer supported"
-msgstr "Din version af Linux Mint undesrtøttes ikke længere"
+msgstr "Tua versio Linucis Mint iam non toleratur"
 
 #: usr/share/linuxmint/mintreport/reports/080_release-eol/MintReportInfo.py:55
 #, python-brace-format
 msgid "It reached End-Of-Life (EOL) yesterday."
 msgid_plural "It reached End-Of-Life (EOL) {num_days} days ago."
-msgstr[0] "Den nåede end-of-life (EOL) i går."
-msgstr[1] "Den nåede end-of-life (EOL) for {num_days} siden."
+msgstr[0] "Ad finem vitae (EOL) heri pervenit."
+msgstr[1] "Ad finem vitae (EOL) {num_days} diebus abhinc pervenit."
 
 #: usr/share/linuxmint/mintreport/reports/080_release-eol/MintReportInfo.py:66
 #, python-format
 msgid "Visit %s to find information about newer releases."
-msgstr "Besøg %s for at få mere at vide om nyere udgaver."
+msgstr "De novis versionibus %s vise."
 
 #: usr/share/linuxmint/mintreport/reports/200_xappstatusapplet-blocked/MintReportInfo.py:17
 msgid "Remove conflicting indicators"
-msgstr "Fjern indikatorer, der giver konflikter."
+msgstr "Dissentientes indicatores remove"
 
 #: usr/share/linuxmint/mintreport/reports/200_xappstatusapplet-blocked/MintReportInfo.py:37
 msgid "The following packages prevent tray icons from working properly:"
-msgstr "Følgende pakker forhindrer statusfeltikoner i at virke korrekt:"
+msgstr "Fasciculi sequentes iconem lancis impediunt:"
 
 #: usr/share/linuxmint/mintreport/reports/200_xappstatusapplet-blocked/MintReportInfo.py:39
 msgid "Note: You will need to log out after removing them."
-msgstr "Bemærk: Du skal logge af efter at have fjernet dem."
+msgstr "Cave: post hos remotos exire oportet."
 
 #: usr/share/linuxmint/mintreport/reports/200_xappstatusapplet-blocked/MintReportInfo.py:45
 msgid "Remove the conflicting packages."
-msgstr "Fjern pakker, der giver konflikter."
+msgstr "Dissentientes fasciculos remove."
 
 #: usr/share/linuxmint/mintreport/reports/500_install-language-packs/MintReportInfo.py:26
 msgid "Install language packs"
-msgstr "Installér sprogpakker"
+msgstr "Fasciculos languarum institue"
 
 #: usr/share/linuxmint/mintreport/reports/500_install-language-packs/MintReportInfo.py:41
 msgid ""
 "The following localization packages are missing to properly support your "
 "language:"
-msgstr ""
-"Følgende lokaliseringspakker mangler for at understøtter dit sprog fuldt ud:"
+msgstr "Hi fasciculi configuratione regionale linguae tuae absunt:"
 
 #: usr/share/linuxmint/mintreport/reports/500_install-language-packs/MintReportInfo.py:48
 msgid "Install the Language Packs"
-msgstr "Installér sprogpakkerne"
+msgstr "Fasciculos Languarum Institue"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:18
 msgid "Install hardware drivers"
-msgstr "Installér hardwaredrivere"
+msgstr "Gubernatores apparatuum institue"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:27
 msgid "Processor"
-msgstr "Processor"
+msgstr "Processorium"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:40
 msgid "Unknown"
-msgstr "Ukendt"
+msgstr "Incognitum"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:44
 #, python-format
 msgid "%s (unknown)"
-msgstr "%s (ukendt)"
+msgstr "%s (incognitum)"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:88
 msgid "Hardware drivers are available for the following devices:"
-msgstr "Hardwaredrivere er tilgængelige til følgende enheder:"
+msgstr "Apparatibus sequentibus gubernatores parati sunt:"
 
 #: usr/share/linuxmint/mintreport/reports/900_drivers/MintReportInfo.py:95
 msgid "Launch the Driver Manager"
-msgstr "Start Driverhåndtering"
+msgstr "Administratorem Gubernatorum Pelle"
